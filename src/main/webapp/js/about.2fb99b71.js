@@ -110,7 +110,7 @@
             }, [e("img", {attrs: {src: s("07d4"), alt: ""}})]), e("router-link", {
                 attrs: {
                     tag: "a",
-                    to: "/sem/nxd"
+                    to: "/sem/njr"
                 }
             }, [e("img", {attrs: {src: s("e2b3"), alt: ""}})]), e("router-link", {
                 attrs: {
