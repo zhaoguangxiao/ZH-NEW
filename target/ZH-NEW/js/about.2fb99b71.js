@@ -61,22 +61,23 @@
                 attrs: {to: "/brand", tag: "a"}
             }, [t._v("MORE")])], 1), e("div", {staticClass: "com-content"}, [e("router-link", {
                 attrs: {
-                    to: "/sem/zyw",
+                    to: "/sem/njr",
                     tag: "a"
                 }
-            }, [e("img", {attrs: {src: s("8589"), alt: ""}})]), e("router-link", {
+            }, [e("img", {attrs: {src: s("e2b3"), alt: ""}})]), e("router-link", {
                 attrs: {
                     to: "/sem/cy",
                     tag: "a"
                 }
             }, [e("img", {attrs: {src: s("b4a7"), alt: ""}})]), e("router-link", {
                 attrs: {
-                    to: "/sem/njr",
+                    to: "/sem/zyw",
                     tag: "a"
                 }
             }, [e("img", {
                 attrs: {
-                    src: s("e2b3"),
+                    //e2b3
+                    src: s("8589"),
                     alt: ""
                 }
             })]), e("router-link", {attrs: {to: "/sem/kzg"}}, [e("img", {
@@ -104,15 +105,16 @@
                 attrs: {tag: "a", to: "/brand"}
             }, [t._v("MORE")])], 1), e("div", {staticClass: "com-content"}, [e("router-link", {
                 attrs: {
-                    to: "/sem/hbb",
+                    to: "/sem/njr",
                     tag: "a"
                 }
-            }, [e("img", {attrs: {src: s("07d4"), alt: ""}})]), e("router-link", {
+            }, [e("img", {attrs: {src: s("e1e3"), alt: ""}})]), e("router-link", {
                 attrs: {
                     tag: "a",
-                    to: "/sem/njr"
+                    to: "/sem/zyw"
                 }
-            }, [e("img", {attrs: {src: s("e2b3"), alt: ""}})]), e("router-link", {
+                //e2b3
+            }, [e("img", {attrs: {src: s("8589"), alt: ""}})]), e("router-link", {
                 attrs: {
                     tag: "a",
                     to: "/sem/ss"
@@ -828,6 +830,8 @@
         t.exports = s.p + "img/dc_left.2e5e6818.jpg"
     }, e9e3: function (t, a, s) {
         t.exports = s.p + "img/dc_right.29b674f5.jpg"
+    },  e1e3: function (t, a, s) {
+        t.exports = s.p + "img/pinpai.jpg"
     }, fd29: function (t, a, s) {
         "use strict";
         var e = function () {
