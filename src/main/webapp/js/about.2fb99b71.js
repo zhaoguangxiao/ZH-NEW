@@ -43,20 +43,20 @@
                 }
             })])])], 1), e("div", {staticClass: "swiper-pagination"}), e("div", {staticClass: "swiper-button-prev swiper-button-white"}), e("div", {staticClass: "swiper-button-next swiper-button-white"})]), e("div", {staticClass: "showgoodness"}, [e("div", {staticClass: "rank"}, [e("div", {staticClass: "com-title"}, [e("span", {staticClass: "one"}, [t._v("品牌排行")]), e("router-link", {
                 attrs: {
-                    to: "/sem/cy",
+                    to: "/sem/njr",
                     tag: "a"
                 }
-            }, [t._v("馋瘾烧烤")]), e("router-link", {
+            }, [t._v("牛家人大碗牛肉面")]), e("router-link", {
                 attrs: {
                     to: "/sem/zyw",
                     tag: "a"
                 }
             }, [t._v("粥员外")]), e("router-link", {
                 attrs: {
-                    to: "/sem/nxd",
+                    to: "/sem/cy",
                     tag: "a"
                 }
-            }, [t._v("暖小稻")]), e("router-link", {
+            }, [t._v("馋瘾烧烤")]), e("router-link", {
                 staticClass: "rank-btn",
                 attrs: {to: "/brand", tag: "a"}
             }, [t._v("MORE")])], 1), e("div", {staticClass: "com-content"}, [e("router-link", {
@@ -86,10 +86,10 @@
                 }
             })])], 1)]), e("div", {staticClass: "recommend"}, [e("div", {staticClass: "com-title"}, [e("span", {staticClass: "one"}, [t._v("精品推荐")]), e("router-link", {
                 attrs: {
-                    to: "/sem/nxd",
+                    to: "/sem/njr",
                     tag: "a"
                 }
-            }, [t._v("暖小稻")]), e("router-link", {
+            }, [t._v("牛家人大碗牛肉面")]), e("router-link", {
                 attrs: {
                     to: "/sem/cy",
                     tag: "a"
