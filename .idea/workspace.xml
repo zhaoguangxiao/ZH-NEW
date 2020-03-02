@@ -8,9 +8,11 @@
   <component name="ChangeListManager">
     <list default="true" id="06bea603-a3ae-49de-b6e6-1d4e1df965c6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/img/b09.a52b8f33.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/img/b09.a52b8f33.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/about.2fb99b71.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/about.2fb99b71.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ZH-NEW/js/about.2fb99b71.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/ZH-NEW/js/about.2fb99b71.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/img/b11.cd918fd0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/img/b11.cd918fd0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/chunk-333b6fd6.04149172.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/chunk-333b6fd6.04149172.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ZH-NEW/img/b09.a52b8f33.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/target/ZH-NEW/img/b09.a52b8f33.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ZH-NEW/img/b11.cd918fd0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/target/ZH-NEW/img/b11.cd918fd0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ZH-NEW/js/chunk-333b6fd6.04149172.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/ZH-NEW/js/chunk-333b6fd6.04149172.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -38,16 +40,29 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/js/chunk-333b6fd6.b7b143d4.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-368">
+              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/js/chunk-333b6fd6.04149172.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="59" column="12" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>b01.af596840.jpg</find>
-      <find>暖小稻鲍汁焖鸡</find>
-      <find>投资有风险，加盟需谨慎</find>
-      <find>投资有风险，加盟需谨慎！</find>
-      <find>sem/nxd</find>
-      <find>导航</find>
       <find>banner</find>
       <find>/sem/zyw</find>
       <find>banner02.513b4c22.jpg</find>
@@ -72,6 +87,12 @@
       <find>热门品牌</find>
       <find>行业动态</find>
       <find>about.2fb99b71.js</find>
+      <find>引爆</find>
+      <find>引爆粥类外卖新时尚</find>
+      <find>fcfa</find>
+      <find>data:image/png;base64,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</find>
+      <find>82b7</find>
+      <find>759b</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -99,18 +120,18 @@
         <option value="$PROJECT_DIR$/src/main/webapp/js/app.735cca71.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/js/app.ec68847e.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/js/app.ec68847e.js.map" />
-        <option value="$PROJECT_DIR$/src/main/webapp/js/chunk-333b6fd6.04149172.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/js/chunk-333b6fd6.04149172.js.map" />
         <option value="$PROJECT_DIR$/src/main/webapp/js/chunk-333b6fd6.b7b143d4.js.map" />
         <option value="$PROJECT_DIR$/src/main/webapp/js/chunk-710f7a81.d35981ae.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/js/chunk-710f7a81.be6fbbf1.js.map" />
         <option value="$PROJECT_DIR$/src/main/webapp/js/chunk-710f7a81.be6fbbf1.js" />
-        <option value="$PROJECT_DIR$/src/main/webapp/js/chunk-333b6fd6.b7b143d4.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/js/about.2fb99b71.js.map" />
         <option value="$PROJECT_DIR$/src/main/webapp/js/about.ef15419b.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/js/about.ef15419b.js.map" />
         <option value="$PROJECT_DIR$/target/ZH-NEW/js/about.ef15419b.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/js/about.2fb99b71.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/chunk-333b6fd6.b7b143d4.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/chunk-333b6fd6.04149172.js" />
       </list>
     </option>
   </component>
@@ -145,10 +166,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="421" />
-    <option name="y" value="470" />
+    <option name="x" value="381" />
+    <option name="y" value="262" />
     <option name="width" value="1400" />
-    <option name="height" value="817" />
+    <option name="height" value="825" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -201,7 +222,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/img" />
+    <property name="last_opened_file_path" value="E:/weijie-workspaces/PC-NJR-WOYACY" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -216,13 +237,13 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\spring-workspace\ZH-NEW\src\main\webapp\img" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\spring-workspace\ZH-NEW\src\main\webapp\img" />
       <recent name="E:\spring-workspace\ZH-NEW\src\main\webapp" />
       <recent name="E:\spring-workspace\ZH-NEW\src\main" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\spring-workspace\ZH-NEW\src\main\webapp\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -364,7 +385,7 @@
       <workItem from="1578561513786" duration="1303000" />
       <workItem from="1578894711151" duration="121000" />
       <workItem from="1583113737225" duration="2987000" />
-      <workItem from="1583121413510" duration="8067000" />
+      <workItem from="1583121413510" duration="10391000" />
     </task>
     <task id="LOCAL-00001" summary="banner跳转连接修改">
       <created>1583123096474</created>
@@ -415,11 +436,18 @@
       <option name="project" value="LOCAL" />
       <updated>1583130086436</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="热门品牌完善">
+      <created>1583132176467</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1583132176467</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34946000" />
+    <option name="totallyTimeSpent" value="37270000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -431,9 +459,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25268242" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.020386266" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -443,19 +472,19 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33962265" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946353" weight="0.47391787" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18312986" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946353" weight="0.4162042" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32963374" />
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3407325" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32963374" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005365" side_tool="true" weight="0.27857935" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005365" side_tool="true" weight="0.2308546" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32963374" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32963374" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="14" visible="true" weight="0.4628191" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.05438402" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -516,257 +545,174 @@
     <MESSAGE value="品牌排行版修改" />
     <MESSAGE value="行业资讯 完善" />
     <MESSAGE value="品牌排行 精品推荐完善" />
-    <option name="LAST_COMMIT_MESSAGE" value="品牌排行 精品推荐完善" />
+    <MESSAGE value="热门品牌完善" />
+    <option name="LAST_COMMIT_MESSAGE" value="热门品牌完善" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_04.2f910f02.jpg">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_06.d81c1c54.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_04.371bca44.jpg">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_06.697f832f.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_04.662f848d.jpg">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_06.9cce73ed.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_04.718f7757.jpg">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_06.6cf2bc0e.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/al_img.b39e6abf.jpg">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_06.4ff14289.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/banner01.89c2a7de.jpg">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_06.4d1eebad.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/banner02.513b4c22.jpg">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_06.3d76d46b.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/chunk-4bd48daa.6ffc78fd.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10398" lean-forward="true" selection-start-column="10398" selection-end-column="10398" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/chunk-710f7a81.d35981ae.js.map">
-      <provider editor-type-id="sourcemapFileViewerProvider" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret column="97829" selection-start-column="97829" selection-end-column="97829" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/chunk-4bd48daa.6ffc78fd.js.map">
-      <provider editor-type-id="sourcemapFileViewerProvider" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="30290" selection-start-column="30290" selection-end-column="30290" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/recommend01.67e9017d.jpg">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_05.eaa2877a.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/recommend02.f5d53da5.jpg">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_05.c1608b2f.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/app.735cca71.js.map">
-      <provider editor-type-id="sourcemapFileViewerProvider" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="575" column="4376" selection-start-line="575" selection-start-column="4376" selection-end-line="575" selection-end-column="4376" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_05.c1ee24fb.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/app.735cca71.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20774" selection-start-column="20774" selection-end-column="20774" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_05.bbda0bd0.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/app.ec68847e.js.map">
-      <provider editor-type-id="sourcemapFileViewerProvider" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="575" column="4376" selection-start-line="575" selection-start-column="4376" selection-end-line="575" selection-end-column="4376" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_05.b635e827.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/app.ec68847e.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20774" selection-start-column="20774" selection-end-column="20774" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_05.71464bc7.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_05.313d2488.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/chunk-333b6fd6.04149172.js.map">
-      <provider editor-type-id="sourcemapFileViewerProvider" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="53437" lean-forward="true" selection-start-column="53437" selection-end-column="53437" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_05.034e4e97.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/chunk-333b6fd6.b7b143d4.js.map">
-      <provider editor-type-id="sourcemapFileViewerProvider" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_05.7b566337.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_04.eecbb212.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_01.4ea9e4cb.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_01.8aadddda.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/main_img04.9cbf4aa5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/main_img03.767ba42c.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/main_img02.baf21d63.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/logo.b725dc2a.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/lhl.3abeea18.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/left_img.5b073d49.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/kzg.1491d6e9.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/i.c87a4bf6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/hbb.71a3a49a.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/form-top.789c6e33.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/draw.a139994b.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/floating_back.7d863d13.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/door.9a45f956.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/dc_right.29b674f5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/dc_left.2e5e6818.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/cy.0f219331.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/customer.52d7c2bc.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/concact_img.d61a004c.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/company.876656c7.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/c_08.970df1f5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/c_07.ac080057.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/c_06.695653f8.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/c_05.89bd06d8.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/c_04.441f285c.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/brand03.33bfb6bd.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/brand04.698aff56.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/btn_img.21901601.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/c_01.21fa3f99.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/c_02.acb90121.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/c_03.01f56a62.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/chunk-333b6fd6.b7b143d4.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="144" column="371" selection-start-line="144" selection-start-column="371" selection-end-line="144" selection-end-column="371" />
+        <state relative-caret-position="-368">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/js/chunk-333b6fd6.04149172.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="35308" lean-forward="true" selection-start-column="35308" selection-end-column="35308" />
+        <state relative-caret-position="266">
+          <caret line="59" column="12" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="12" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/chunk-710f7a81.d35981ae.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="51" selection-start-line="1" selection-start-column="51" selection-end-line="1" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/chunk-710f7a81.be6fbbf1.js.map">
-      <provider editor-type-id="sourcemapFileViewerProvider" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret column="58908" selection-start-column="58908" selection-end-column="58908" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/chunk-710f7a81.be6fbbf1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11148" selection-start-column="11148" selection-end-column="11148" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/chunk-333b6fd6.b7b143d4.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="221" column="37" lean-forward="true" selection-start-line="221" selection-start-column="37" selection-end-line="221" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/about.2fb99b71.js.map">
-      <provider editor-type-id="sourcemapFileViewerProvider" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="386" column="6933" selection-start-line="386" selection-start-column="6933" selection-end-line="386" selection-end-column="6933" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/about.ef15419b.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="212" column="175" selection-start-line="212" selection-start-column="175" selection-end-line="212" selection-end-column="175" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/about.ef15419b.js.map">
-      <provider editor-type-id="sourcemapFileViewerProvider" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="384" selection-start-line="384" selection-end-line="384" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/ZH-NEW/js/about.ef15419b.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="212" column="175" selection-start-line="212" selection-start-column="175" selection-end-line="212" selection-end-column="175" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/ZH-NEW/js/about.2fb99b71.js.map">
-      <provider editor-type-id="sourcemapFileViewerProvider" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11096" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/ZH-NEW/js/about.2fb99b71.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1177">
-          <caret line="129" column="162" selection-start-line="129" selection-start-column="157" selection-end-line="129" selection-end-column="162" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/b01.263c7bf8.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/b01.af596840.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/b02.5b333246.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/b02.cb2331b7.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/b03.579c35a8.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/b03.cf04a34b.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/b04.4bdf5b99.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/b07.1f77beee.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/b07.6a27f735.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/b08.42e7bfd9.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/b08.83daea8f.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/b05.f3713a85.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/b05.8d6400ab.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/b04.73e6e974.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/b06.8af4338d.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/b06.7b545120.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/b09.a52b8f33.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/about.2fb99b71.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="224" column="32" selection-start-line="224" selection-start-column="32" selection-end-line="224" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/b10.8199b4e6.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/b10.d5fb627a.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/b11.cd918fd0.jpg">
-      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
   <component name="masterDetails">
