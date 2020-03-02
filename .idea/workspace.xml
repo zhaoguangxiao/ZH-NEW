@@ -6,7 +6,30 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06bea603-a3ae-49de-b6e6-1d4e1df965c6" name="Default Changelist" comment="" />
+    <list default="true" id="06bea603-a3ae-49de-b6e6-1d4e1df965c6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/about.2fb99b71.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/about.2fb99b71.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/about.2fb99b71.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/about.2fb99b71.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/about.ef15419b.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/about.ef15419b.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/about.ef15419b.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/about.ef15419b.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/app.735cca71.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/app.735cca71.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/app.ec68847e.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/app.ec68847e.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ZH-NEW.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ZH-NEW/js/about.2fb99b71.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/ZH-NEW/js/about.2fb99b71.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ZH-NEW/js/about.2fb99b71.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/ZH-NEW/js/about.2fb99b71.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ZH-NEW/js/about.ef15419b.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/ZH-NEW/js/about.ef15419b.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ZH-NEW/js/about.ef15419b.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/ZH-NEW/js/about.ef15419b.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ZH-NEW/js/app.735cca71.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/ZH-NEW/js/app.735cca71.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ZH-NEW/js/app.735cca71.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/ZH-NEW/js/app.735cca71.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ZH-NEW/js/app.ec68847e.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/ZH-NEW/js/app.ec68847e.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ZH-NEW/js/app.ec68847e.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/ZH-NEW/js/app.ec68847e.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ZH-NEW/js/chunk-333b6fd6.04149172.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/ZH-NEW/js/chunk-333b6fd6.04149172.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ZH-NEW/js/chunk-333b6fd6.b7b143d4.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/ZH-NEW/js/chunk-333b6fd6.b7b143d4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ZH-NEW/js/chunk-4bd48daa.6ffc78fd.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/ZH-NEW/js/chunk-4bd48daa.6ffc78fd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ZH-NEW/js/chunk-710f7a81.be6fbbf1.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/ZH-NEW/js/chunk-710f7a81.be6fbbf1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ZH-NEW/js/chunk-710f7a81.d35981ae.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/ZH-NEW/js/chunk-710f7a81.d35981ae.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,7 +56,103 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/js/about.ef15419b.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="250" column="33" selection-start-line="250" selection-start-column="33" selection-end-line="250" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/js/app.735cca71.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="20774" selection-start-column="20774" selection-end-column="20774" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/js/app.ec68847e.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="20774" selection-start-column="20774" selection-end-column="20774" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/js/about.ef15419b.js.map">
+          <provider editor-type-id="sourcemapFileViewerProvider" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="385" column="2212" selection-start-line="385" selection-start-column="2212" selection-end-line="385" selection-end-column="2212" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/js/about.2fb99b71.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="387">
+              <caret line="81" column="57" selection-start-line="81" selection-start-column="57" selection-end-line="81" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/js/app.ec68847e.js.map">
+          <provider editor-type-id="sourcemapFileViewerProvider" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="575" column="4376" selection-start-line="575" selection-start-column="4376" selection-end-line="575" selection-end-column="4376" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/js/chunk-333b6fd6.04149172.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="35747" selection-start-column="35747" selection-end-column="35747" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/js/about.2fb99b71.js.map">
+          <provider editor-type-id="sourcemapFileViewerProvider" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="387" column="2212" selection-start-line="387" selection-start-column="2212" selection-end-line="387" selection-end-column="2212" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/js/chunk-333b6fd6.04149172.js.map">
+          <provider editor-type-id="sourcemapFileViewerProvider" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="53962" selection-start-column="53962" selection-end-column="53962" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/js/app.735cca71.js.map">
+          <provider editor-type-id="sourcemapFileViewerProvider" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="575" column="4376" selection-start-line="575" selection-start-column="4376" selection-end-line="575" selection-end-column="4376" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -42,9 +161,25 @@
       <find>投资有风险，加盟需谨慎</find>
       <find>投资有风险，加盟需谨慎！</find>
       <find>sem/nxd</find>
+      <find>导航</find>
+      <find>banner</find>
+      <find>/sem/zyw</find>
       <find>banner02.513b4c22.jpg</find>
+      <find>/sem/nxd12</find>
+      <find>品牌</find>
+      <find>品牌排行1</find>
+      <find>品牌排行</find>
+      <find>精品推荐</find>
+      <find>recommend01.67e9017d.jpg</find>
+      <find>recommend02.f5d53da5.jpg</find>
       <find>/sem/nxd</find>
+      <find>/sem/kzg1</find>
+      <find>/sem/kzg</find>
+      <find>/sem/kzg14</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -61,6 +196,24 @@
         <option value="$PROJECT_DIR$/src/main/webapp/js/chunk-3fa08267.a023d196.js.map" />
         <option value="$PROJECT_DIR$/src/main/webapp/js/chunk-5f0daad3.77ef927e.js.map" />
         <option value="$PROJECT_DIR$/src/main/webapp/js/chunk-3fa08267.a023d196.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/chunk-710f7a81.be6fbbf1.js.map" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/chunk-4bd48daa.6ffc78fd.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/chunk-710f7a81.d35981ae.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/chunk-710f7a81.be6fbbf1.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/chunk-710f7a81.d35981ae.js.map" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/chunk-4bd48daa.6ffc78fd.js.map" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/chunk-333b6fd6.b7b143d4.js.map" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/chunk-333b6fd6.b7b143d4.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/about.ef15419b.js.map" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/app.735cca71.js.map" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/about.ef15419b.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/app.735cca71.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/app.ec68847e.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/app.ec68847e.js.map" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/chunk-333b6fd6.04149172.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/about.2fb99b71.js.map" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/chunk-333b6fd6.04149172.js.map" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/about.2fb99b71.js" />
       </list>
     </option>
   </component>
@@ -100,6 +253,7 @@
     <option name="width" value="1400" />
     <option name="height" value="817" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -130,12 +284,20 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ZH-NEW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZH-NEW" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -305,11 +467,12 @@
       <workItem from="1578561513786" duration="1303000" />
       <workItem from="1578894711151" duration="121000" />
       <workItem from="1583113737225" duration="2987000" />
+      <workItem from="1583121413510" duration="1650000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23508000" />
+    <option name="totallyTimeSpent" value="28529000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -323,7 +486,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17864807" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.020386266" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -333,19 +496,19 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27413985" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.26304108" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18867925" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946353" weight="0.32963374" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32963374" />
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3407325" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32963374" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005365" side_tool="true" weight="0.27857935" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32963374" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32963374" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="14" visible="true" weight="0.4617092" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -360,62 +523,27 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_07.a9bcaf67.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_06.6cf2bc0e.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_06.4d1eebad.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_05.034e4e97.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_05.7b566337.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_04.eecbb212.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_01.4ea9e4cb.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_01.8aadddda.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_01.14c42cf2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_01.87ef1e0e.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_01.a2814077.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_01.b7904a51.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_01.c37e5103.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_01.c9798256.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_01.f8a4c4e2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_01.f8a4850c.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_02.0f8ae028.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_02.1e72ecae.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -485,14 +613,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_04.718f7757.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/app.ec68847e.js.map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="70529" selection-start-column="70529" selection-end-column="70529" />
-        </state>
-      </provider>
-      <provider editor-type-id="sourcemapFileViewerProvider" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/img/b05.f3713a85.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -517,16 +637,146 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/img/banner02.513b4c22.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/chunk-710f7a81.be6fbbf1.js.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret column="97478" lean-forward="true" selection-start-column="97478" selection-end-column="97478" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/chunk-4bd48daa.6ffc78fd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10398" lean-forward="true" selection-start-column="10398" selection-end-column="10398" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/chunk-710f7a81.d35981ae.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15674" lean-forward="true" selection-start-column="15674" selection-end-column="15674" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/chunk-710f7a81.be6fbbf1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15559" lean-forward="true" selection-start-column="15559" selection-end-column="15559" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/chunk-710f7a81.d35981ae.js.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret column="97829" selection-start-column="97829" selection-end-column="97829" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/chunk-4bd48daa.6ffc78fd.js.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30290" selection-start-column="30290" selection-end-column="30290" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/recommend01.67e9017d.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/img/recommend02.f5d53da5.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/chunk-710f7a81.be6fbbf1.js.map">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/chunk-333b6fd6.b7b143d4.js.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-308">
-          <caret column="97470" selection-start-column="97470" selection-end-column="97470" />
+        <state>
+          <caret column="53579" selection-start-column="53579" selection-end-column="53579" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/chunk-333b6fd6.b7b143d4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35632" lean-forward="true" selection-start-column="35632" selection-end-column="35632" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/about.ef15419b.js.map">
       <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="385" column="2212" selection-start-line="385" selection-start-column="2212" selection-end-line="385" selection-end-column="2212" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/app.735cca71.js.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="575" column="4376" selection-start-line="575" selection-start-column="4376" selection-end-line="575" selection-end-column="4376" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/about.ef15419b.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="250" column="33" selection-start-line="250" selection-start-column="33" selection-end-line="250" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/app.735cca71.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20774" selection-start-column="20774" selection-end-column="20774" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/app.ec68847e.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20774" selection-start-column="20774" selection-end-column="20774" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/app.ec68847e.js.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="575" column="4376" selection-start-line="575" selection-start-column="4376" selection-end-line="575" selection-end-column="4376" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/chunk-333b6fd6.04149172.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35747" selection-start-column="35747" selection-end-column="35747" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/about.2fb99b71.js.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="387" column="2212" selection-start-line="387" selection-start-column="2212" selection-end-line="387" selection-end-column="2212" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/chunk-333b6fd6.04149172.js.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="53962" selection-start-column="53962" selection-end-column="53962" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/about.2fb99b71.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="81" column="57" selection-start-line="81" selection-start-column="57" selection-end-line="81" selection-end-column="57" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
