@@ -127,7 +127,7 @@
                     src: s("4c69"),
                     alt: ""
                 }
-            })])], 1)])])]), e("div", {staticClass: "right-box fr"}, [e("div", {staticClass: "rb-mid"}, [e("div", {staticClass: "mid-title"}, [e("p", [t._v("品牌排行榜6")]), e("p", [t._v("BRAND RANKING")]), e("ul", {staticClass: "mid-nav"}, [e("li", {staticClass: "first-rank"}, [e("router-link", {
+            })])], 1)])])]), e("div", {staticClass: "right-box fr"}, [e("div", {staticClass: "rb-mid"}, [e("div", {staticClass: "mid-title"}, [e("p", [t._v("品牌排行榜")]), e("p", [t._v("BRAND RANKING")]), e("ul", {staticClass: "mid-nav"}, [e("li", {staticClass: "first-rank"}, [e("router-link", {
                 attrs: {
                     to: "/sem/njr",
                     tag: "a"
