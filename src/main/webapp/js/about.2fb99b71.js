@@ -324,12 +324,12 @@
                     to: "/news/1",
                     tag: "a"
                 }
-            }, [t._v("更多")])], 1), e("div", {staticClass: "dynamic-content"}, [e("div", {staticClass: "dc-left"}, [e("router-link", {attrs: {to: "/newsDetails/79"}}, [e("img", {
+            }, [t._v("更多")])], 1), e("div", {staticClass: "dynamic-content"}, [e("div", {staticClass: "dc-left"}, [e("router-link", {attrs: {to: "/newsDetails/179"}}, [e("img", {
                 attrs: {
                     src: s("e6cd"),
                     alt: ""
                 }
-            }), e("p", [t._v("衢州非遗小吃，孔掌柜薄皮馄饨品牌介绍！")])])], 1), e("div", {staticClass: "dc-mid"}, [e("ul", {staticClass: "dc-mid-nav"}, t._l(t.dynamics.slice(0, 4), function (a, s) {
+            }), e("p", [t._v("牛家人斩获“中国餐饮连锁加盟品牌「最具爆发潜力」TOP10”大奖")])])], 1), e("div", {staticClass: "dc-mid"}, [e("ul", {staticClass: "dc-mid-nav"}, t._l(t.dynamics.slice(0, 4), function (a, s) {
                 return e("li", {
                     key: s, attrs: {"data-uidpk": a.uidpk}, on: {
                         click: function (s) {

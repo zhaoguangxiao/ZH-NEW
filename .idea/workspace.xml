@@ -7,10 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06bea603-a3ae-49de-b6e6-1d4e1df965c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/pinpai.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/about.2fb99b71.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/about.2fb99b71.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ZH-NEW/js/about.2fb99b71.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/ZH-NEW/js/about.2fb99b71.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/img/dc_left.2e5e6818.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/img/dc_left.2e5e6818.jpg" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -42,31 +40,16 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/js/about.2fb99b71.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="108" column="28" lean-forward="true" selection-start-line="108" selection-start-column="28" selection-end-line="108" selection-end-column="28" />
+            <state relative-caret-position="16241">
+              <caret line="939" column="21" selection-start-line="939" selection-start-column="21" selection-end-line="939" selection-end-column="21" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/js/about.ef15419b.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="822" column="47" selection-start-line="822" selection-start-column="31" selection-end-line="822" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/img/dc_left.2e5e6818.jpg">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>品牌排行1</find>
       <find>精品推荐</find>
       <find>recommend01.67e9017d.jpg</find>
       <find>recommend02.f5d53da5.jpg</find>
@@ -91,11 +74,12 @@
       <find>759b</find>
       <find>data:image/png;base64,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</find>
       <find>29ae</find>
-      <find>about.2fb99b71.js</find>
       <find>行业动态</find>
       <find>07d4</find>
       <find>dc_left.2e5e6818.jpg</find>
       <find>e2b3</find>
+      <find>79</find>
+      <find>about.2fb99b71.js</find>
     </findStrings>
     <dirStrings>
       <dir>E:\spring-workspace\ZH-NEW\src\main\webapp\img</dir>
@@ -391,7 +375,7 @@
       <workItem from="1578561513786" duration="1303000" />
       <workItem from="1578894711151" duration="121000" />
       <workItem from="1583113737225" duration="2987000" />
-      <workItem from="1583121413510" duration="12915000" />
+      <workItem from="1583121413510" duration="13963000" />
     </task>
     <task id="LOCAL-00001" summary="banner跳转连接修改">
       <created>1583123096474</created>
@@ -456,11 +440,18 @@
       <option name="project" value="LOCAL" />
       <updated>1583134599197</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="品牌排行 精品推荐修改">
+      <created>1583137420952</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1583137420952</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39794000" />
+    <option name="totallyTimeSpent" value="40842000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -475,7 +466,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2918455" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24248926" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -485,8 +476,8 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.19755827" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946353" weight="0.34184238" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20421754" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946353" weight="0.22197558" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32963374" />
@@ -497,7 +488,7 @@
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32963374" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32963374" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" weight="0.5172031" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.45837957" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -560,144 +551,14 @@
     <MESSAGE value="品牌排行 精品推荐完善" />
     <MESSAGE value="热门品牌完善" />
     <MESSAGE value="项目管理 完善" />
-    <option name="LAST_COMMIT_MESSAGE" value="项目管理 完善" />
+    <MESSAGE value="品牌排行 精品推荐修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="品牌排行 精品推荐修改" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_05.7b566337.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_04.eecbb212.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_01.4ea9e4cb.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_01.8aadddda.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/main_img04.9cbf4aa5.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/main_img03.767ba42c.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/main_img02.baf21d63.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/logo.b725dc2a.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/lhl.3abeea18.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/left_img.5b073d49.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/kzg.1491d6e9.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/i.c87a4bf6.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/hbb.71a3a49a.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/form-top.789c6e33.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/draw.a139994b.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/floating_back.7d863d13.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/door.9a45f956.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/dc_right.29b674f5.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/cy.0f219331.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/customer.52d7c2bc.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/concact_img.d61a004c.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/company.876656c7.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/c_08.970df1f5.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/c_07.ac080057.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/c_06.695653f8.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/c_05.89bd06d8.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/c_04.441f285c.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/brand04.698aff56.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/btn_img.21901601.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/c_01.21fa3f99.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/c_02.acb90121.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/c_03.01f56a62.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/chunk-333b6fd6.04149172.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="60" column="2643" selection-start-line="60" selection-start-column="2643" selection-end-line="60" selection-end-column="2643" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_05.c1ee24fb.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_05.eaa2877a.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/chunk-333b6fd6.b7b143d4.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="258" column="38" lean-forward="true" selection-start-line="258" selection-start-column="31" selection-end-line="258" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/banner01.3ae4358d.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/banner02.513b4c22.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/banner03.0f219331.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/banner03.1cf0efe4.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/banner04.5abd9309.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/img/brand01.828abe65.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -726,13 +587,136 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/zyw.8ea6d729.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/yu_top.8f4353c7.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/xkf.135c700c.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/wy.74265b05.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/ss.3c7ff3fa.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/SourceHanSansK-Normal.7b01c394.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/recommend05.3c7ff3fa.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/recommend04.ab835d82.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/recommend03.f6513b56.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/recommend02.f5d53da5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/recommend01.67e9017d.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/re04.32829795.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/re03.b3408527.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/re02.198aed07.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/re01.a1e1f9a6.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/rank04.301b129c.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/rank01.c87143dc.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/qrcode.63db7032.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/pro_detail_img.d5e37dcf.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/pinpai.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/person.b923a555.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/person.93a81c27.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/nxd.90185bb4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/njr.ae26c9ea.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/news_title.90936959.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/news_title.99d78f4e.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_11.f03c547c.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_10.ea9872a5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_10.ca39da10.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_10.44dbea5f.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_09.be9df88e.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_09.9023613a.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_09.3e832142.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/n_08.d9d5f48b.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/al_img.b39e6abf.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/b01.263c7bf8.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/b01.af596840.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/b02.5b333246.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/b02.cb2331b7.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/b03.579c35a8.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/img/dc_left.2e5e6818.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/js/about.2fb99b71.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="108" column="28" lean-forward="true" selection-start-line="108" selection-start-column="28" selection-end-line="108" selection-end-column="28" />
+        <state relative-caret-position="16241">
+          <caret line="939" column="21" selection-start-line="939" selection-start-column="21" selection-end-line="939" selection-end-column="21" />
         </state>
       </provider>
     </entry>
