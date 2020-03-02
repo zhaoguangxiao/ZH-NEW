@@ -217,25 +217,26 @@
                 }
             }, [t._v("更多")])], 1), e("ul", {staticClass: "hb-nav"}, [e("li", [e("router-link", {
                 attrs: {
-                    to: "/sem/zyw",
+                    to: "/sem/njr",
                     tag: "a"
                 }
             }, [e("img", {
                 attrs: {
-                    src: s("ce83"),
+                    src: s("01d2"),
                     alt: ""
                 }
-            }), e("div", {staticClass: "item-content"}, [e("div", {staticClass: "clearfix"}, [e("span", [t._v("粥员外")]), e("span", [t._v("加盟")])]), e("div", {staticClass: "clearfix"}, [e("span", [t._v("加盟商好评率98%")]), e("span", [t._v("开店：5000+家")])])])])], 1), e("li", [e("router-link", {
+            }), e("div", {staticClass: "item-content"}, [e("div", {staticClass: "clearfix"}, [e("span", [t._v("牛家人大碗牛肉面")]), e("span", [t._v("加盟")])]), e("div", {staticClass: "clearfix"}, [e("span", [t._v("加盟商好评率99%")]), e("span", [t._v("开店：1000+家")])])])])], 1), e("li", [e("router-link", {
                 attrs: {
                     tag: "a",
-                    to: "/sem/cy"
+                    to: "/sem/zyw"
                 }
             }, [e("img", {
                 attrs: {
-                    src: s("77ce"),
+                    //77ce
+                    src: s("ce83"),
                     alt: ""
                 }
-            }), e("div", {staticClass: "item-content"}, [e("div", {staticClass: "clearfix"}, [e("span", [t._v("馋瘾烧烤")]), e("span", [t._v("加盟")])]), e("div", {staticClass: "clearfix"}, [e("span", [t._v("加盟商好评率98%")]), e("span", [t._v("开店：100家")])])])])], 1), e("li", [e("router-link", {
+            }), e("div", {staticClass: "item-content"}, [e("div", {staticClass: "clearfix"}, [e("span", [t._v("粥员外")]), e("span", [t._v("加盟")])]), e("div", {staticClass: "clearfix"}, [e("span", [t._v("加盟商好评率99%")]), e("span", [t._v("开店：1200+家")])])])])], 1), e("li", [e("router-link", {
                 attrs: {
                     tag: "a",
                     to: "/sem/lhl"
@@ -245,7 +246,7 @@
                     src: s("e634"),
                     alt: ""
                 }
-            }), e("div", {staticClass: "item-content"}, [e("div", {staticClass: "clearfix"}, [e("span", [t._v("厉害了炒饭")]), e("span", [t._v("加盟")])]), e("div", {staticClass: "clearfix"}, [e("span", [t._v("加盟商好评率98%")]), e("span", [t._v("开店：100家")])])])])], 1), e("li", [e("router-link", {
+            }), e("div", {staticClass: "item-content"}, [e("div", {staticClass: "clearfix"}, [e("span", [t._v("厉害了炒饭")]), e("span", [t._v("加盟")])]), e("div", {staticClass: "clearfix"}, [e("span", [t._v("加盟商好评率99%")]), e("span", [t._v("开店：500家")])])])])], 1), e("li", [e("router-link", {
                 attrs: {
                     tag: "a",
                     to: "/sem/kzg"
@@ -255,17 +256,18 @@
                     src: s("bb5b"),
                     alt: ""
                 }
-            }), e("div", {staticClass: "item-content"}, [e("div", {staticClass: "clearfix"}, [e("span", [t._v("孔掌柜薄皮馄饨")]), e("span", [t._v("加盟")])]), e("div", {staticClass: "clearfix"}, [e("span", [t._v("加盟商好评率98%")]), e("span", [t._v("开店：100家")])])])])], 1), e("li", [e("router-link", {
+            }), e("div", {staticClass: "item-content"}, [e("div", {staticClass: "clearfix"}, [e("span", [t._v("孔掌柜薄皮馄饨")]), e("span", [t._v("加盟")])]), e("div", {staticClass: "clearfix"}, [e("span", [t._v("加盟商好评率98%")]), e("span", [t._v("开店：600家")])])])])], 1), e("li", [e("router-link", {
                 attrs: {
-                    to: "/sem/nxd",
+                    to: "/sem/cy",
                     tag: "a"
                 }
             }, [e("img", {
                 attrs: {
-                    src: s("01d2"),
+                    //01d2
+                    src: s("77ce"),
                     alt: ""
                 }
-            }), e("div", {staticClass: "item-content"}, [e("div", {staticClass: "clearfix"}, [e("span", [t._v("暖小稻")]), e("span", [t._v("加盟")])]), e("div", {staticClass: "clearfix"}, [e("span", [t._v("加盟商好评率98%")]), e("span", [t._v("开店：100家")])])])])], 1), e("li", [e("router-link", {
+            }), e("div", {staticClass: "item-content"}, [e("div", {staticClass: "clearfix"}, [e("span", [t._v("馋瘾烧烤")]), e("span", [t._v("加盟")])]), e("div", {staticClass: "clearfix"}, [e("span", [t._v("加盟商好评率98%")]), e("span", [t._v("开店：300家")])])])])], 1), e("li", [e("router-link", {
                 attrs: {
                     to: "/sem/xkf",
                     tag: "a"
@@ -275,7 +277,7 @@
                     src: s("974b"),
                     alt: ""
                 }
-            }), e("div", {staticClass: "item-content"}, [e("div", {staticClass: "clearfix"}, [e("span", [t._v("湘口福")]), e("span", [t._v("加盟")])]), e("div", {staticClass: "clearfix"}, [e("span", [t._v("加盟商好评率98%")]), e("span", [t._v("开店：100家")])])])])], 1), e("li", [e("router-link", {
+            }), e("div", {staticClass: "item-content"}, [e("div", {staticClass: "clearfix"}, [e("span", [t._v("湘口福")]), e("span", [t._v("加盟")])]), e("div", {staticClass: "clearfix"}, [e("span", [t._v("加盟商好评率98%")]), e("span", [t._v("开店：600家")])])])])], 1), e("li", [e("router-link", {
                 attrs: {
                     to: "/sem/ss",
                     tag: "a"
@@ -285,7 +287,7 @@
                     src: s("763e"),
                     alt: ""
                 }
-            }), e("div", {staticClass: "item-content"}, [e("div", {staticClass: "clearfix"}, [e("span", [t._v("蜀帅麻辣香锅")]), e("span", [t._v("加盟")])]), e("div", {staticClass: "clearfix"}, [e("span", [t._v("加盟商好评率98%")]), e("span", [t._v("开店：100家")])])])])], 1), e("li", [e("router-link", {
+            }), e("div", {staticClass: "item-content"}, [e("div", {staticClass: "clearfix"}, [e("span", [t._v("蜀帅麻辣香锅")]), e("span", [t._v("加盟")])]), e("div", {staticClass: "clearfix"}, [e("span", [t._v("加盟商好评率98%")]), e("span", [t._v("开店：700家")])])])])], 1), e("li", [e("router-link", {
                 attrs: {
                     to: "/sem/bbw",
                     tag: "a"
@@ -295,7 +297,7 @@
                     src: s("7d92"),
                     alt: ""
                 }
-            }), e("div", {staticClass: "item-content"}, [e("div", {staticClass: "clearfix"}, [e("span", [t._v("煲百味")]), e("span", [t._v("加盟")])]), e("div", {staticClass: "clearfix"}, [e("span", [t._v("加盟商好评率98%")]), e("span", [t._v("开店：100家")])])])])], 1), e("li", [e("router-link", {
+            }), e("div", {staticClass: "item-content"}, [e("div", {staticClass: "clearfix"}, [e("span", [t._v("煲百味")]), e("span", [t._v("加盟")])]), e("div", {staticClass: "clearfix"}, [e("span", [t._v("加盟商好评率98%")]), e("span", [t._v("开店：900家")])])])])], 1), e("li", [e("router-link", {
                 attrs: {
                     to: "/sem/hbb",
                     tag: "a"
@@ -305,7 +307,7 @@
                     src: s("5739"),
                     alt: ""
                 }
-            }), e("div", {staticClass: "item-content"}, [e("div", {staticClass: "clearfix"}, [e("span", [t._v("韩巴巴炸鸡")]), e("span", [t._v("加盟")])]), e("div", {staticClass: "clearfix"}, [e("span", [t._v("加盟商好评率98%")]), e("span", [t._v("开店：100家")])])])])], 1), e("li", [e("router-link", {
+            }), e("div", {staticClass: "item-content"}, [e("div", {staticClass: "clearfix"}, [e("span", [t._v("韩巴巴炸鸡")]), e("span", [t._v("加盟")])]), e("div", {staticClass: "clearfix"}, [e("span", [t._v("加盟商好评率98%")]), e("span", [t._v("开店：800家")])])])])], 1), e("li", [e("router-link", {
                 attrs: {
                     to: "/sem/wy",
                     tag: "a"
@@ -315,7 +317,7 @@
                     src: s("965e"),
                     alt: ""
                 }
-            }), e("div", {staticClass: "item-content"}, [e("div", {staticClass: "clearfix"}, [e("span", [t._v("我呀便当")]), e("span", [t._v("加盟")])]), e("div", {staticClass: "clearfix"}, [e("span", [t._v("加盟商好评率98%")]), e("span", [t._v("开店：100家")])])])])], 1)])])]), e("div", {staticClass: "dynamic"}, [e("div", {staticClass: "dc w"}, [e("div", {staticClass: "com-title2 clearfix"}, [e("h2", [t._v("行业动态")]), e("router-link", {
+            }), e("div", {staticClass: "item-content"}, [e("div", {staticClass: "clearfix"}, [e("span", [t._v("我呀便当")]), e("span", [t._v("加盟")])]), e("div", {staticClass: "clearfix"}, [e("span", [t._v("加盟商好评率98%")]), e("span", [t._v("开店：800家")])])])])], 1)])])]), e("div", {staticClass: "dynamic"}, [e("div", {staticClass: "dc w"}, [e("div", {staticClass: "com-title2 clearfix"}, [e("h2", [t._v("行业动态")]), e("router-link", {
                 attrs: {
                     to: "/news/1",
                     tag: "a"
