@@ -127,17 +127,17 @@
                     src: s("4c69"),
                     alt: ""
                 }
-            })])], 1)])])]), e("div", {staticClass: "right-box fr"}, [e("div", {staticClass: "rb-mid"}, [e("div", {staticClass: "mid-title"}, [e("p", [t._v("品牌排行榜")]), e("p", [t._v("BRAND RANKING")]), e("ul", {staticClass: "mid-nav"}, [e("li", {staticClass: "first-rank"}, [e("router-link", {
+            })])], 1)])])]), e("div", {staticClass: "right-box fr"}, [e("div", {staticClass: "rb-mid"}, [e("div", {staticClass: "mid-title"}, [e("p", [t._v("品牌排行榜6")]), e("p", [t._v("BRAND RANKING")]), e("ul", {staticClass: "mid-nav"}, [e("li", {staticClass: "first-rank"}, [e("router-link", {
+                attrs: {
+                    to: "/sem/njr",
+                    tag: "a"
+                }
+            }, [e("span", [e("span", [t._v("1")]), e("span", [t._v("牛家人大碗牛肉面")])]), e("span", {staticClass: "fr"}, [e("span"), e("span", [t._v("5178")])])])], 1), e("li", {staticClass: "second-rank"}, [e("router-link", {
                 attrs: {
                     to: "/sem/zyw",
                     tag: "a"
                 }
-            }, [e("span", [e("span", [t._v("1")]), e("span", [t._v("粥员外")])]), e("span", {staticClass: "fr"}, [e("span"), e("span", [t._v("5178")])])])], 1), e("li", {staticClass: "second-rank"}, [e("router-link", {
-                attrs: {
-                    to: "/sem/cy",
-                    tag: "a"
-                }
-            }, [e("span", [e("span", [t._v("2")]), e("span", [t._v("馋瘾烧烤")])]), e("span", {staticClass: "fr"}, [e("span"), e("span", [t._v("5046")])])])], 1), e("li", {staticClass: "third-rank"}, [e("router-link", {
+            }, [e("span", [e("span", [t._v("2")]), e("span", [t._v("粥员外")])]), e("span", {staticClass: "fr"}, [e("span"), e("span", [t._v("5046")])])])], 1), e("li", {staticClass: "third-rank"}, [e("router-link", {
                 attrs: {
                     tag: "a",
                     to: "/sem/lhl"
@@ -150,9 +150,9 @@
             }, [e("span", [e("span", [t._v("4")]), e("span", [t._v("孔掌柜薄皮馄饨")])]), e("span", {staticClass: "fr"}, [e("span"), e("span", [t._v("4751")])])])], 1), e("li", [e("router-link", {
                 attrs: {
                     tag: "a",
-                    to: "/sem/nxd"
+                    to: "/sem/cy"
                 }
-            }, [e("span", [e("span", [t._v("5")]), e("span", [t._v("暖小稻")])]), e("span", {staticClass: "fr"}, [e("span"), e("span", [t._v("4578")])])])], 1), e("li", [e("router-link", {
+            }, [e("span", [e("span", [t._v("5")]), e("span", [t._v("馋瘾烧烤")])]), e("span", {staticClass: "fr"}, [e("span"), e("span", [t._v("4578")])])])], 1), e("li", [e("router-link", {
                 attrs: {
                     to: "/sem/xkf",
                     tag: "a"
